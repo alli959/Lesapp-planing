@@ -8,10 +8,11 @@
 	~~Submit application to Play Store~~
 	Submit application to App Store
 # Milestone 3 (~~10.01.2022~~ ~~10.02.2022 - 01.04.2022~~ 01=11=22)
-```
+
 	Go to schools or get participants to test the application
 	I will keep tab on the kids improvement
 	Ask them if they enjoyed the app
 	Now I can answer my research question
-```
+
 ## Notes
+	Still waiting for Apple to answer my submission
