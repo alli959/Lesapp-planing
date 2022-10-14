@@ -7,7 +7,7 @@
   * ~~Implement a form to submit new tasks~~
   * ~~Implement a tech stack on AWS for the app and the form~~
   * ~~Submit application to Play Store~~
-     Submit application to App Store
+  *   Submit application to App Store
 # Milestone 3 (~~10.01.2022~~ ~~10.02.2022 - 01.04.2022~~ 01=11=22)
 
 	* Go to schools or get participants to test the application
